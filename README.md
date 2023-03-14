@@ -16,9 +16,9 @@ The project includes the following steps:
 8. Compare the speed of getting data from MySQL and Redis
 
 The technologies that are used:
-Docker
-Redis insight
-Hibernate
-MySQL
-JDBC
-Lombok
+Docker,
+Redis insight,
+Hibernate,
+MySQL,
+JDBC,
+Lombok,
